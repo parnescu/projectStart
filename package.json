@@ -5,7 +5,7 @@
 	"main": "src/bootstrap.js",
 	"scripts": {
 		"build": "webpack",
-		"dev": "webpack-dev-server -w --open --mode development",
+		"start": "webpack-dev-server -w --open --mode development",
 		"test": "jest"
 	},
 	"author": "Jay B",
